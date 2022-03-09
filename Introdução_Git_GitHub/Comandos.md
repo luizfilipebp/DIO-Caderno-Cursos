@@ -30,12 +30,18 @@
   Cria os arquivos necessários para uso do Git
 
 - git add .
+
 - git status
+
 - git comit -m "descrição do commit"
-- git push
+
+- git push -u origin [branch]
+
 - git pull 
 
+- git remote add origin
 
+  
 
 # Comandos SSH :sunglasses:
 
