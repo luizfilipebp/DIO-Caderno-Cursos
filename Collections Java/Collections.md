@@ -10,7 +10,8 @@
 
 	- Permite elementos duplicados e garante a ordem de inserção.
 
-![Difference between ArrayList and LinkedList in Java](C:\Users\luiz_\workspace\DIO-Caderno-Cursos\Collections Java\Difference between ArrayList and LinkedList in Java.png)
+! [Difference between ArrayList and LinkedList in Java](https://raw.githubusercontent.com/luizfilipebp/DIO-Caderno-Cursos/main/Collections%20Java/Difference%20between%20ArrayList%20and%20LinkedList%20in%20Java.png)
+
 
 
 
